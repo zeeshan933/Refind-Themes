@@ -15,6 +15,6 @@ Modify your refind.conf file to use the Wave theme:
 
 sudo nano /boot/efi/EFI/refind/refind.conf
 
-# Enable the Wave theme
+## Enable the Wave theme
 include themes/wave/theme.conf
 
